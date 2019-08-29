@@ -27,12 +27,12 @@ rating people will give the movie. It is high rating eneough for determining if 
 
   * Data: historical dataset from previous loan applications
   * Classification algorithms:
-   * k-Nearest Neighbour
-   * Decision Tree
-   * Support Vector Machine
-   * Logistic Regression
+    * k-Nearest Neighbour
+    * Decision Tree
+    * Support Vector Machine
+    * Logistic Regression
   
   * Classifiers Accuracy, using the metrics (when applicable):
-   * Jaccard index
-   * F1-score
-   * LogLoass
+    * Jaccard index
+    * F1-score
+    * LogLoass
