@@ -2,19 +2,19 @@
 ## Different Projects Data Science, Statistics
 Here I only show the final draft of the projects, mainly pdf files
 
-* ### Project 1: Exploring the Behavioral Risk Factor Surveillance System (BRFSS) dataset
+* ### Project 1 - R: Exploring the Behavioral Risk Factor Surveillance System (BRFSS) dataset
   **Research Questions:**
     * Q1: How is the general health among the USA population for females and males
     * Q2: How are the weigth, height and Body Mass Index (BMI) distributions among USA females and
 males:
     * Q3: Which factor has a greater impact on health BMI or Education ?
 
-* ### Project 2: Statistical inference with the General Social Survey (1972-2012)
+* ### Project 2 - R: Statistical inference with the General Social Survey (1972-2012)
   **Research Question:**
     * Q: Does different races think differently about being theirself more or less Liberal or
 Conservative?
 
-* ### Project 3: Linear Regresson: Modelling Spectators Films's ratings vs. Popularity
+* ### Project 3 - R: Linear Regresson: Modelling Spectators Films's ratings vs. Popularity
   **Research questions:**
   * Q1: What can the data tell us. Particularities and possible relationships between variables.
   * Q2: Can we  nd some parameter that correlates with high ratings.
