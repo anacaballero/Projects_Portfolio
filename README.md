@@ -25,14 +25,14 @@ rating people will give the movie. It is high rating eneough for determining if 
 
 * ### Project  - Python: Classification: Predict whether a loan case will be paid off or not.
 
-  Data: historical dataset from previous loan applications
-  Classification algorithms:
-  * k-Nearest Neighbour
-  * Decision Tree
-  * Support Vector Machine
-  * Logistic Regression
+  * Data: historical dataset from previous loan applications
+  * Classification algorithms:
+   * k-Nearest Neighbour
+   * Decision Tree
+   * Support Vector Machine
+   * Logistic Regression
   
-  The results is reported as the accuracy of each classifier, using the following metrics (when applicable):
-  * Jaccard index
-  * F1-score
-  * LogLoass
+  * Classifiers Accuracy, using the metrics (when applicable):
+   * Jaccard index
+   * F1-score
+   * LogLoass
