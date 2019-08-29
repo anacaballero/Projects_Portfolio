@@ -22,3 +22,17 @@ Conservative?
   * Q4: She is also interested in learning something new about movies.
   * Q5: We would like to buy  lms for “our” tv channel that the most audience would like. Can we  nd a model that gives the
 rating people will give the movie. It is high rating eneough for determining if the  lm is going to be popular?
+
+* ### Project  - Python: Classification: Predict whether a loan case will be paid off or not.
+
+  Data: historical dataset from previous loan applications
+  Classification algorithms:
+  * k-Nearest Neighbour
+  * Decision Tree
+  * Support Vector Machine
+  * Logistic Regression
+  
+  The results is reported as the accuracy of each classifier, using the following metrics (when applicable):
+  * Jaccard index
+  * F1-score
+  * LogLoass
