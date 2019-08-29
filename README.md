@@ -14,7 +14,7 @@ males:
     * Q: Does different races think differently about being theirself more or less Liberal or
 Conservative?
 
-* ### Project 3: Linear Regresson: Modelling Spectators Films's ratings
+* ### Project 3: Linear Regresson: Modelling Spectators Films's ratings vs. Popularity
   **Research questions:**
   * Q1: What can the data tell us. Particularities and possible relationships between variables.
   * Q2: Can we  nd some parameter that correlates with high ratings.
