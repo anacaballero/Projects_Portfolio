@@ -13,3 +13,12 @@ males:
   **Research Question:**
     * Q: Does different races think differently about being theirself more or less Liberal or
 Conservative?
+
+* ### Project 3: Linear Regresson: Modelling Spectators Films's ratings
+  **Research questions:**
+  * Q1: What can the data tell us. Particularities and possible relationships between variables.
+  * Q2: Can we  nd some parameter that correlates with high ratings.
+  * Q3: What attributes make a movie popular.
+  * Q4: She is also interested in learning something new about movies.
+  * Q5: We would like to buy  lms for “our” tv channel that the most audience would like. Can we  nd a model that gives the
+rating people will give the movie. It is high rating eneough for determining if the  lm is going to be popular?
