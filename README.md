@@ -8,3 +8,8 @@ Here I only show the final draft of the projects, mainly pdf files
     * Q2: How are the weigth, height and Body Mass Index (BMI) distributions among USA females and
 males:
     * Q3: Which factor has a greater impact on health BMI or Education ?
+
+* ### Project 2: Statistical inference with the General Social Survey (1972-2012)
+  **Research Question:**
+    * Q: Does different races think differently about being theirself more or less Liberal or
+Conservative?
