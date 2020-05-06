@@ -36,3 +36,7 @@ rating people will give the movie. It is high rating eneough for determining if 
     * Jaccard index
     * F1-score
     * LogLoass
+
+* ### Project: Bike-Sharing pattern prediction using NN
+“Bike-Sharing pattern” prediction using neural network developed with NumPy
+Lets help “Spin-Wheels” decide how many bikes to keep, so that they neither loose potential customers nor waste money on bikes that are just sitting around. In this project we will help them in developing a neural network from scratch
