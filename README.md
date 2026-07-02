@@ -1,43 +1,44 @@
-# Projects_Portfolio
-## Different Projects Data Science, Statistics
-Here I only show the final draft of the projects, mainly pdf files
+# Applied Data Science — Project Portfolio
 
-* ### Project 1 - R: Exploring the Behavioral Risk Factor Surveillance System (BRFSS) dataset
-  **Research Questions:**
-    * Q1: How is the general health among the USA population for females and males
-    * Q2: How are the weigth, height and Body Mass Index (BMI) distributions among USA females and
-males:
-    * Q3: Which factor has a greater impact on health BMI or Education ?
+Applied projects across demand forecasting, risk classification, and statistical analysis.
 
-* ### Project 2 - R: Statistical inference with the General Social Survey (1972-2012)
-  **Research Question:**
-    * Q: Does different races think differently about being theirself more or less Liberal or
-Conservative?
+---
 
-* ### Project 3 - R: Linear Regresson: Modelling Spectators Films's ratings vs. Popularity
-  **Research questions:**
-  * Q1: What can the data tell us. Particularities and possible relationships between variables.
-  * Q2: Can we  nd some parameter that correlates with high ratings.
-  * Q3: What attributes make a movie popular.
-  * Q4: She is also interested in learning something new about movies.
-  * Q5: We would like to buy  lms for “our” tv channel that the most audience would like. Can we  nd a model that gives the
-rating people will give the movie. It is high rating eneough for determining if the  lm is going to be popular?
+## Bike-Sharing Demand Forecasting
 
-* ### Project  - Python: Classification: Predict whether a loan case will be paid off or not.
+Neural network for time-series demand prediction, applied to a public bike rental system to optimize fleet allocation across stations.
 
-  * Data: historical dataset from previous loan applications
-  * Classification algorithms:
-    * k-Nearest Neighbour
-    * Decision Tree
-    * Support Vector Machine
-    * Logistic Regression
-  
-  * Classifiers Accuracy, using the metrics (when applicable):
-    * Jaccard index
-    * F1-score
-    * LogLoass
+**Problem:** Operators need to pre-position bikes based on expected demand. Under-stocking loses customers; over-stocking wastes capital. The model predicts hourly ridership from weather, time-of-day, and calendar features.
 
-* ### Project: Bike-Sharing pattern prediction using NN 
-“Bike-Sharing pattern” prediction using neural network developed with NumPy - Udacity
+**Approach:** Feedforward neural network with full manual implementation — forward pass, backpropagation, and stochastic gradient descent. Feature engineering includes one-hot encoding of cyclical time variables and min-max normalization of continuous inputs.
 
-Decide how many bikes to keep, so that they neither loose potential customers nor waste money on bikes that are just sitting around. In this project we will help them in developing a neural network from scratch
+**Stack:** `Python` `NumPy` `pandas` `matplotlib`
+
+---
+
+## Loan Default Prediction
+
+Comparative evaluation of four classification algorithms on historical loan application data, predicting default risk across borrower profiles.
+
+| Model | Metric |
+|---|---|
+| k-Nearest Neighbors | Jaccard + F1 |
+| Decision Tree | Jaccard + F1 |
+| Support Vector Machine | Jaccard + F1 |
+| Logistic Regression | Jaccard + F1 + Log Loss |
+
+**Stack:** `Python` `scikit-learn` `pandas` `NumPy`
+
+---
+
+## Statistical Inference Studies (R)
+
+Three inferential analyses on large public datasets:
+
+**BRFSS dataset** — Health and BMI distributions across the US population by gender; significance testing of demographic differences.
+
+**GSS (1972–2012)** — Political leaning differences by race; hypothesis testing and confidence interval estimation.
+
+**Movie audience scores** — Linear regression model for predicting ratings; feature selection, multicollinearity analysis, and model diagnostics.
+
+**Stack:** `R` `ggplot2` `dplyr` `tidyr`
